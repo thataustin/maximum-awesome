@@ -28,7 +28,7 @@ peace-loving hippies. Built for Mac OS X.
 
 ### tmux
 
-* `<C-a>` is the prefix
+* `<C-j>` is the prefix  (DIFF C-a is square's default, but I use C-a to get to the beginning of the line in bash and to add numbers in vim)
 * mouse scroll initiates tmux scroll
 * `prefix v` makes a vertical split
 * `prefix s` makes a horizontal split
