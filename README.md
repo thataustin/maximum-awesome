@@ -1,3 +1,5 @@
+I'm using [Maximum Awesome](https://github.com/square/maximum-awesome) but I've changed some of the default settings.  Search for "DIFF" in this README to find out what I've changed
+
 # Maximum Awesome
 
 Config files for vim and tmux, lovingly tended by a small subculture of
