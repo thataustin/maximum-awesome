@@ -78,6 +78,6 @@ his awesome vim plugins.
 ## Austin's CheatSheet (DIFF)
 
 * My `<tmux-leader>` is `<C-j>`
-* get to tmux copy mode with <tmux-leader> [
+* get to tmux copy mode with `<tmux-leader> [`
   * tmux has a pipe-copy command that maximum-awesome uses to bind bind copied text into the Mac OSX clipboard (awesome!)
   * use vim commands in tmux copy mode to move and copy text
