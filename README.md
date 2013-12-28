@@ -1,4 +1,6 @@
-I'm using [Maximum Awesome](https://github.com/square/maximum-awesome) but I've changed some of the default settings.  Search for "DIFF" in this README to find out what I've changed
+I'm using [Maximum Awesome](https://github.com/square/maximum-awesome) but I've changed some of the default settings.
+Search for "DIFF" in this README to find out what I've changed
+Also, see the CheatSheet at the bottom for things I've learned about this setup (I don't work with the guys at Square, after all :)
 
 # Maximum Awesome
 
@@ -66,3 +68,10 @@ request, we'll make sure you're in the list of people who have signed a CLA.
 
 Thanks to the vimsters at Square who put this together. Thanks to Tim Pope for
 his awesome vim plugins.
+
+## Austin's CheatSheet (DIFF)
+
+* My <tmux-leader> is <ctr> j
+* get to tmux copy mode with <tmux-leader> [
+  * tmux has a pipe-copy command that maximum-awesome uses to bind bind copied text into the Mac OSX clipboard (awesome!)
+  * use vim commands in tmux copy mode to move and copy text
